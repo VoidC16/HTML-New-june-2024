@@ -62,11 +62,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Acredita que, independente do avanço tecnológico, nunca será possível simular perfeitamente a realidade, por isso, não é um grande problema.",
-                afirmacao: "Confia que a IA não precise ser regulada, pois sempre será possível identificar algo real de algo feito artificialmente."
+                afirmacao: "Confia que a IA não precise ser regulada, pois sempre será possível diferenciar algo real de algo feito artificialmente."
             },
             {
                 texto: "Acredita que isso seja alarmante príncipalmente em tópicos de política, pois nada garante que essa tecnologia não avance e distorça a noção da população em relação ao que é real.",
-                afirmacao: "Defende a regulação da IA, alegando que eventualmente o avanço chegará a um ponto em que seja impossível diferenciar real de artificial, principalmente por pessoas que não costumam confirmar os fatos."
+                afirmacao: "Defende a regulamentação da IA, alegando que eventualmente o avanço chegará a um ponto em que seja impossível diferenciar real de artificial, principalmente por pessoas que não costumam confirmar os fatos."
             }
         ]
     },
